@@ -53,7 +53,7 @@ $lang = array(
 // -------------------------------------
 
 'go_pro_custom_fields' =>
-"Did you know that there are more field types available with Freeform Pro? Click here to Go Pro for $79.95.",
+"Did you know that there are more field types available with Freeform Pro? Click here to Go Pro!",
 
 // -------------------------------------
 //	fieldtype

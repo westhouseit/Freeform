@@ -27,7 +27,7 @@ $lang = array(
 'Défaut',
 
 'go_pro_custom_fields' => 
-'Saviez-vous qu\'il y a plus de types de champs disponibles avec Freeform Pro? Cliquez ici pour Aller Pro pour $79.95.',
+'Saviez-vous qu\'il y a plus de types de champs disponibles avec Freeform Pro? Cliquez ici pour Passer à Pro!',
 
 'no_available_composer_forms' => 
 'Aucun formulaire Freeform avec mise en page Composeur n\'est disponible.',
