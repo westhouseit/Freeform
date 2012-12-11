@@ -1579,108 +1579,108 @@ Dit zijn de details:
 "Kernwoordbanbericht",
 
 'spam_keyword_ban_message_desc' =>
-"The message shown to users when banned keywords are submitted.",
+"Het bericht dat aan gebruikers getoond wordt als gebande kernwoorden worden verzonden.",
 
 'form_statuses' =>
-"Custom Form Statuses",
+"Aangepaste formulierstatussen",
 
 'form_statuses_desc' =>
-"Custom statuses for form entries beside the defaults of: Pending, Open, Closed.",
+"Aangepaste statussen voor berichten, naast de standaard In afwachting, Open, Gesloten.",
 
 'max_user_recipients' =>
-'Maximum User Recipients',
+'Maximaal aantal gebruikersontvangers',
 
 'max_user_recipients_desc' =>
-'Maximum amount of recipients for user inputed email contacts. If the maximum is exceeded, an error is shown to the user.',
+'Maximaal aantal ontvangers dat een gebruiker kan invoeren. Als het maximum wordt overschreden, wordt er een foutmelding getoond aan de gebruiker.',
 
 'spam_count' =>
-'Spam Count',
+'Spamlimiet',
 
 'spam_count_desc' =>
-'Maximum emails per IP Address within the Spam Interval time period.',
+'Maximum aantal e-mails binnen 1 ip-adresbereik in de spamintervalperiode.',
 
 'spam_interval' =>
-'Spam interval',
+'Spaminterval',
 
 'spam_interval_desc' =>
-'Time interval reset for maximum emails (Spam Count) sent (in Minutes)',
+'Tijdsintervalreset voor het maximaal aantal e-mails (Spamlimiet) verzonden (in minuten)',
 
 'allow_user_field_layout' =>
-"Allow User Field Layouts",
+"Sta veldlayouts van gebruikers toe.",
 
 'allow_user_field_layout_desc' =>
-"Allow users to adjust their own field layout preferences in the entries area rather than having a global set defined by admins.",
+"Sta gebruikers toe hun eigen veldlayoutvoorkeuren in de berichtenzone in testellen, in plaats van een globale set te gebruiken die door admins is gemaakt.",
 
 'enable_spam_prevention' =>
-"Enable Spam Prevention",
+"Spampreventie inschakelen",
 
 'enable_spam_prevention_desc' =>
-"Enable Spam Prevention based on the Spam Count and Spam Interval preferences.",
+"Schakel spampreventie in op basis van de spamlimiet- en spamintervalvoorkeuren.",
 
 'default_show_all_site_data' =>
-"Show Data from All Sites",
+"Toon gegevens van alle sites",
 
 'default_show_all_site_data_desc' =>
-"Show data from all sites by default. This will not stop Freeform from being site aware, but will show all Freeform, Entries, Fields, and Notifications templates from all sites by default instead of having to enable it on a per menu tab basis.",
+"Toon standaard gegevens van alle sites. Dit zorgt er niet voor dat Freeform zich niet meer bewust is van verschillende sites, maar toont alle formulieren, berichten, velden en notificatietemplates standaard van alle sites, in plaats van dat per menu aan te duiden.",
 
 'keep_unfinished_multi_form' =>
-"Keep Unfinished Multi-page Form Data",
+"Bewaar incomplete multipage-gegevens.",
 
 'keep_unfinished_multi_form_desc' =>
-"Multi-page form entries that are not completed within the above specified time range will be deleted. If you wish to prevent that automatic deletion and keep partial multi-page form submissions, uncheck this preference. <br/><br/><span class='ss_notice'>If you choose to enable this, it is STRONGLY recommended that you include, in your website's public privacy notice, that you are storing data from incomplete forms. This can have serious privacy implications.</span>",
+"Multipage formulieren die niet binnen de hierboven opgegegevn tijd worden vervolledigd, worden verwijderd. Als je dat wil voorkomen en deels ingevulde multipageformulieren wil bewaren, vink dan deze optie aan.<br/><br/><span class='ss_notice'>Als je ervoor kiest om deze functie te gebruiken, raden we met klem aan om op je website te vermelden dat incomplete formuliergegevens ook bewaard worden. Dat kan namelijk ernstige privacygevolgen hebben.</span>",
 
 'multi_form_timeout' =>
-"Multi-page Form Completion Timeout",
+"Multipageformulier invultijd",
 
 'multi_form_timeout_desc' =>
-"Number of seconds until a multi-page form cookie/entry is marked for deletion. The timer gets reset each time the user submits a page of data in the multi-page form. (e.g. 3 hours = 7200 = 60 * 60 * 3).",
+"Aantal seconden tot een multipageformulier wordt verwijderd. De teller wordt terug op 0 gezet telken de gebruiker op een nieuwe pagina komt. (bvb. 3 uur = 7200 = 60 * 60 * 3).",
 
 'all_sites' =>
-"All Sites",
+"Alle sites",
 
 'cp_date_formatting' =>
-"Control Panel Date Formatting",
+"Controlepaneel datumnotatie",
 
 'cp_date_formatting_desc' =>
-"General date formatting setting for items in the Freeform Control Panel. See the <a href='http://php.net/manual/en/function.date.php#refsect1-function.date-parameters' target='_blank'>PHP Date Format Manual</a> for available options.",
+"Algemene datumnotatie-instelling voor items in het Freeform controlepaneel. Bekijk de <a href='http://php.net/manual/en/function.date.php#refsect1-function.date-parameters' target='_blank'>PHP Date Format Handleiding</a> voor beschikbare opties.",
 
 // -------------------------------------
 //	global preferences
 // -------------------------------------
 
 'prefs_all_sites' =>
-"Use These Preferences for All Sites",
+"Gebruik deze voorkeuren voor alle sites",
 
 'prefs_all_sites_desc' =>
-"Use one set of preferences for all sites. If this is unchecked, each site will have its own preferences. If it is checked, every site will use the preferences from site 1.",
+"Gebruik 1 set voorkeuren voor alle sites. Als dit is afgevinkt, zullen alle sites hun eigen voorkeuren hebben. Als dit is aangevinkt, zullen alle sites de voorkeuren van site 1 gebruiken.",
 
 // -------------------------------------
 //	delete confirmations
 // -------------------------------------
 
 'delete_form_confirmation' =>
-"Are you sure you want to delete the form(s) and all form entries?",
+"Ben je zeker dat je deze formulieren en alle gegevens wil verwijderen?",
 
 'delete_field_confirmation' =>
-"Are you sure you want to delete the fields(s) and all data associated with them?",
+"Ben je zeker dat je alle velden en bijbehorende gegevens wil verwijderen?",
 
 'action_cannot_be_undone' =>
-"This action cannot be undone.",
+"Deze handeling kan je niet ongedaan maken.",
 
 'delete_form_success' =>
-"Successfully deleted form(s)",
+"Formulier(en) verwijderd",
 
 'delete_field_success' =>
-"Successfully deleted field(s)",
+"Veld(en) verwijderd",
 
 'delete_entry_success' =>
-"Successfully deleted entry(s)",
+"Bericht(en) verwijderd",
 
 'delete_notification_success' =>
-"Successfully deleted notification(s)",
+"Notificatie(s) verwijderd",
 
 'freeform_will_lose_data' =>
-"The following forms will lose column data if these fields are deleted (sorted by field to be deleted):",
+"De volgende formulieren zullen kolomgegevens verliezen als deze velden worden verwijderd (gesorteerd volgens te verwijderen veld):",
 
 //----------------------------------------
 //  Errors
@@ -1690,116 +1690,116 @@ Dit zijn de details:
 "Fatal error: Call to undefined method %class%::%method%()",
 
 'unable_to_write_to_cache' =>
-"Unable to write to cache directory. Make sure that your cache directory is properly set and is writable.",
+"Kan niet naar cachemap schrijven. Zorg ervoor dat je cachemap juist is ingesteld en beschrijfbaar is.",
 
 'export_error' =>
-"An uncaught error occurred when trying to export.",
+"Een onbepaalde fout is opgetreden bij het exporteren.",
 
 'email_subject_required' =>
-"Email subject required.",
+"E-mailonderwerp verplicht.",
 
 'email_limit_exceeded' =>
-"You have exceeded the maximum amount of emails allowed to be sent via this form within a pre-determined time period.",
+"Je hebt het maximum aantal e-mails dat binnen een bepaalde tijd verstuurd mag worden bereikt.",
 
 'invalid_user_email_field' =>
-"Invalid User Email Field",
+"Ongeldig gebruikerse-mailveld",
 
 'no_valid_recipient_emails' =>
-"Recipient Emails were submitted, but none were valid.",
+"Ontvanger e-mailadressen zijn verstuurd, maar geen enkel was geldig.",
 
 'over_recipient_user_limit' =>
-"You have inputted more recipients than are allowed.",
+"Je hebt meer ontvangers opgegeven dan toegelaten.",
 
 'over_recipient_limit' =>
-"You have selected more recipients than are allowed.",
+"Je hebt meer ontvangers geselecteerd dan toegelaten.",
 
 'invalid_upload_count' =>
-"Invalid upload count: The max upload count must be greater than 0 and less than or equal to your php.ini's max_file_uploads setting.",
+"Ongeldig aantal uploads: het aantal uploads moet meer zijn dan 0 en minder of gelijk aan je php.ini's max_file_uploads instelling.",
 
 'invalid_custom_location' =>
-"Invalid Custom File Upload Location: This must be an absolute path to a <em>writable</em> folder on your server.",
+"Ongeldige uploadlocatie: dit moet een absoluut pad zijn naar een <em>beschrijfbare</em> map op je server.",
 
 'invalid_upload_location' =>
-"Invalid upload location choice. It's possible that upload locations were edited while you were updating.",
+"Ongeldige uploadlocatie gekozen. Misschien werden de uploadlocaties bewerkt terwijl je aan het updaten was.",
 
 'invalid_filetype_filter' =>
-"Invalid Filetype Filter: Valid file type filters are either '*' (without quotes) for allow all or pipe delimited lists of file extensions like 'jpeg|jpg|gif|png'.",
+"Ongeldige bestandstypefilter: geldige types zijn '*' (zonder aanhalingstekens) om alle bestandstypes toe te laten of een extensielijst gescheiden door een vertikeel streepje, bvb 'jpeg|jpg|gif|png'.",
 
 'file_upload_limit_exceeded' =>
-"More files were attempted to be uploaded than the set limit.",
+"Er werd geprobeerd meer bestanden te uploaden dan toegelaten.",
 
 'unknown_file_upload_problem' =>
-"Unknown file upload problem.",
+"Onbekend uploadprobleem.",
 
 //sub reasons
 'reason_banned' =>
-"Reason: Banned",
+"Reden: geband",
 
 'reason_ip_required' =>
-"Reason: IP Required",
+"Reden: IP verplicht",
 
 'reason_secure_form_timeout' =>
-"Reason: Secure Forms Timeout",
+"Reden: beveiligde formulier timeout",
 
 'no_form_ids_submitted' =>
-"No form ids were submitted.",
+"Er zijn geen formulier-ID's verzonden.",
 
 'no_field_ids_submitted' =>
-"No field ids were submitted.",
+"Er zijn geen veld-ID's verzonden.",
 
 'invalid_form_id' =>
-"Invalid form id(s) submitted.",
+"Ongeldige formulier-ID's verzonden.",
 
 'invalid_field_id' =>
-"Invalid field id(s) submitted.",
+"Ongeldige veld-ID's verzonden.",
 
 'invalid_entry_id' =>
-"Invalid entry id(s) submitted.",
+"Ongeldige bericht-ID's verzonden.",
 
 'invalid_notification_id' =>
-"Invalid notification id(s) submitted.",
+"Ongeldige notificatie-ID's verzonden.",
 
 'non_valid_email' =>
-"%email% is not a valid email.",
+"%email% is geen geldig e-mailadres.",
 
 'invalid_entry_data' =>
-"Invalid Entry Data",
+"Ongeldige berichtgegevens.",
 
 'no_fields' =>
-"No fields currently exist.",
+"Er zijn geen velden.",
 
 'field_name_can_only_contain' =>
-"Field names can only contain underscores, dashes, letters, and numbers, have at least one letter, and be lowercase.",
+"Veldnamen kunnen enkel liggende streepjes, koppeltekens, letters en cijfers bevatten en moeten minstens 1 letter bevatten en in kleine letters getypt worden.",
 
 'form_name_can_only_contain' =>
-"Form names can only contain underscores, dashes, letters, and numbers, have at least one letter, and be lowercase",
+"Formuliernamen kunnen enkel liggende streepjes, koppeltekens, letters en cijfers bevatten en moeten minstens 1 letter bevatten en in kleine letters getypt worden.",
 
 'notification_name_can_only_contain' =>
-"Notification names can only contain underscores, dashes, letters, and numbers, have at least one letter, and be lowercase",
+"Notificatienamen kunnen enkel liggende streepjes, koppeltekens, letters en cijfers bevatten en moeten minstens 1 letter bevatten en in kleine letters getypt worden.",
 
 'template_name_can_only_contain' =>
-"Template names can only contain underscores, dashes, letters, and numbers, have at least one letter, and be lowercase",
+"Templatenamen kunnen enkel liggende streepjes, koppeltekens, letters en cijfers bevatten en moeten minstens 1 letter bevatten en in kleine letters getypt worden.",
 
 'duplicate_field_name' =>
-"There is already a field with the name '%name%'.",
+"Er is al een veld met de naam '%name%'.",
 
 'duplicate_form_name' =>
-"There is already a field with the name '%name%'.",
+"Er is al een formulier met de naam '%name%'.",
 
 'duplicate_notification_name' =>
-"There is already a field with the name '%name%'.",
+"Er is al een notificatie met de naam '%name%'.",
 
 'duplicate_template_name' =>
-"There is already a field with the name '%name%'.",
+"Er is al een template met de naam '%name%'.",
 
 'field_name_required' =>
-"A field name is required and cannot be blank or a number.",
+"Een veldnaam is verplicht en kan niet leeg zijn of een cijfer zijn.",
 
 'field_label_required' =>
-"A field label is required and cannot be blank.",
+"Een veldlabel is verplicht en kan niet leeg zijn.",
 
 'template_label_required' =>
-"A template label is required and cannot be blank.",
+"Een templatelabel is verplicht en kan niet leeg zijn",
 
 'notification_name_required' =>
 "A notification name is required and cannot be blank or a number.",
