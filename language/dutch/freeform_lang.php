@@ -1799,199 +1799,198 @@ Dit zijn de details:
 "Een veldlabel is verplicht en kan niet leeg zijn.",
 
 'template_label_required' =>
-"Een templatelabel is verplicht en kan niet leeg zijn",
+"Een templatelabel is verplicht en kan niet leeg zijn.",
 
 'notification_name_required' =>
-"A notification name is required and cannot be blank or a number.",
+"Een notificatienaam is verplicht en kan niet leeg zijn of een cijfer zijn.",
 
 'template_name_required' =>
-"A template name is required and cannot be blank or a number.",
+"Een templatenaam is verplicht en kan niet leeg zijn of een cijfer zijn.",
 
 'notification_label_required' =>
-"A notification label is required and cannot be blank.",
+"Een notificatielabel is verplicht en kan niet leeg zijn.",
 
 'form_name_required' =>
-"A form name is required and cannot be blank or a number.",
+"Een formuliernaam is verplicht en kan niet leeg zijn of een cijfer zijn.",
 
 'form_label_required' =>
-"A form label is required and cannot be blank.",
+"Een formulierlabel is verplicht en kan niet leeg zijn.",
 
 'field_edit_warning' =>
-"This could change existing data!",
+"Dit kan bestaande gegevens veranderen!",
 
 'field_edit_warning_desc' =>
-"The following forms, and their data, will be affected when editing this field: <strong>%form_names%</strong>",
+"De volgende formulier en hun gegevens zullen aangepast worden als je dit veld wijzigt: <strong>%form_names%</strong>",
 
 "field_name_exists" =>
-"A field by the name '%name%' already exists. Please go back and choose a different name.",
+"Een veld met de naam '%name%' bestaat al. Ga terug en kies een andere naam.",
 
 "notification_name_exists" =>
-"A notification by the name '%name%' already exists. Please go back and choose a different name.",
+"Een notificatie met de naam '%name%' bestaat al. Ga terug en kies een andere naam.",
 
 "form_name_exists" =>
-"A form by the name '%name%' already exists. Please go back and choose a different name.",
+"Een formulier met de naam '%name%' bestaat al. Ga terug en kies een andere naam.",
 
 "freeform_reserved_field_name" =>
-"The field name, '%name%' is a word reserved by Freeform. Please go back and choose a different name.",
+"De veldnaam '%name%' is een woord dat voorbehouden is voor Freeform. Ga terug en kies een andere naam.",
 
 "reserved_form_name" =>
-"The form name, '%name%' is a word reserved by Freeform. Please go back and choose a different name.",
+"De formuliernaam '%name%' is een woord dat voorbehouden is voor Freeform. Ga terug en kies een andere naam.",
 
 "reserved_notification_name" =>
-"The notification name, '%name%' is a word reserved by Freeform. Please go back and choose a different name.",
+"De notificatienaam '%name%' is een woord dat voorbehouden is voor Freeform. Ga terug en kies een andere naam.",
 
 "reserved_template_name" =>
-"The template name, '%name%' is a word reserved by Freeform. Please go back and choose a different name.",
+"De templatenaam '%name%' is een woord dat voorbehouden is voor Freeform. Ga terug en kies een andere naam.",
 
 'from_email_required' =>
-"The from email is required for notifications",
+"Het afzenderadres is vereist voor notificaties",
 
 'from_name_required' =>
-"The from name is required for notifications",
+"De afzendernaam is vereist voor notificaties",
 
 'email_subject_required' =>
-"The email subject is required for notifications",
+"Het onderwerp is vereist voor notificaties",
 
 "no_duplicates" =>
-"No duplicate postings are allowed for this form.",
+"Er mogen geen identieke berichten gepostworden met dit formulier.",
 
 'required_field_missing' =>
-"Required field missing input",
+"Verplicht veld is niet ingevuld",
 
 'fields_do_not_match' =>
-"The following required matching fields do not match: ",
+"De volgende velden - die identiek moeten zijn - zijn niet identiek: ",
 
 'generic_invalid_field_input' =>
-"Invalid input.",
+"Ongeldige invoer.",
 
 'not_a_number' =>
-"Not a number",
+"Geen nummer",
 
 'not_an_integer' =>
-"Not an integer",
+"Geen geheel getal",
 
 'not_a_decimal' =>
-"Not a decimal",
+"Geen decimaal getal",
 
 'not_valid_email' =>
-"Not a valid email",
+"Geen geldig e-mailadres",
 
 'number_exceeds_limit' =>
-"Number exceeds allowed maximum",
+"Aantal overschreidt maximum",
 
 'max_length_exceeded' =>
-"Maximum field length of %num% exceeded.",
+"Maximum aantal tekens (%num%) overschreden.",
 
 'field_settings_error' =>
-"Options for this field type had errors.",
+"De opties voor dit veldtype bevatten fouten.",
 
 //this is for concatenating to a standard field with a required match
 'confirm' =>
-"Confirm",
+"Bevestig",
 
 //general errors
 'invalid_request' =>
-"Invalid Request",
+"Ongeldige vraag",
 
 'freeform_module_disabled' =>
-"The Freeform module is currently disabled.  Please insure it is installed and up to date by going
-to the module's control panel in the ExpressionEngine Control Panel",
+"De Freeform module is uitgeschakeld. Controleer of de module geïnstalleerd en up-to-date is op de modulepagina van ExpressionEngine.",
 
 'disable_module_to_disable_extension' =>
-"To disable this extension, you must disable its corresponding <a href='%url%'>module</a>.",
+"Om deze extensie uit te schakelen, moet je de bijbehorende <a href='%url%'>module</a> uitschakelen.",
 
 'enable_module_to_enable_extension' =>
-"To enable this extension, you must install its corresponding <a href='%url%'>module</a>.",
+"Om deze extensie in te schakelen, moet je de bijbehorende <a href='%url%'>module</a> installeren.",
 
 //field multi row save error
 'you_must_choose_field_options' =>
-"You must choose some data option for multi-rows in order for this field type to work.",
+"Je moet enkele opties kiezen voor multirows opdat dit veld kan werken.",
 
 'invalid_country' =>
-"Invalid Country",
+"Ongeldig land",
 
 'invalid_province' =>
-"Invalid Province",
+"Ongeldige provincie",
 
 'invalid_state' =>
-"Invalid State",
+"Ongeldige staat",
 
 'invalid_fieldtype' =>
-"Invalid field type",
+"Ongeldig veldtype",
 
 'error_creating_export' =>
-"Error creating export",
+"Fout bij exporteren",
 
 'author_edit_only' =>
-"Only the author of this entry may edit it.",
+"Enkel de auteur van het bericht mag dit bericht aanpassen.",
 
 // -------------------------------------
 //	file upload errors
 // -------------------------------------
 
 'upload_userfile_not_set' =>
-"Unable to find a post variable called user file.",
+"Kan geen variabele met de naam user file vinden.",
 
 'upload_file_exceeds_limit' =>
-"The uploaded file exceeds the maximum allowed size in your PHP configuration file.",
+"Het geuploade bestand overschreidt de maximaal toegestane grootte zoals opgegeven in het PHP configuratiebestand.",
 
 'upload_file_exceeds_form_limit' =>
-"The uploaded file exceeds the maximum size allowed by the submission form.",
+"Het geuploade bestand overschreidt de maximaal toegestane grootte zoals opgegeven bij dit formulier.",
 
 'upload_file_partial' =>
-"The file was only partially uploaded.",
+"Het bestand is slechts gedeeltelijk geupload.",
 
 'upload_no_temp_directory' =>
-"The temporary folder is missing.",
+"De tijdelijke map is niet gevonden.",
 
 'upload_unable_to_write_file' =>
-"The file could not be written to disk.",
+"Het bestand kon niet opgeslagen worden op de schijf.",
 
 'upload_stopped_by_extension' =>
-"The file upload was stopped by extension.",
+"Het uploaden is beëindigd door de extensie.",
 
 'upload_no_file_selected' =>
-"You did not select a file to upload.",
+"Je hebt geen bestand geselecteerd.",
 
 'upload_invalid_filetype' =>
-"The filetype you are attempting to upload is not allowed.",
+"Het bestandstype dat je wil uploaden is niet toegelaten.",
 
 'upload_invalid_filesize' =>
-"The file you are attempting to upload is larger than the permitted size.",
+"Het bestand dat je wil uploaden is groter dan de toegelaten grootte.",
 
 'upload_invalid_dimensions' =>
-"The image you are attempting to upload exceeds the maximum height or width.",
+"De afbeelding die je wil uploaden is breder of hoger dan toegelaten.",
 
 'upload_destination_error' =>
-"A problem was encountered while attempting to move the uploaded file to the final destination.",
+"Er is een probleem opgetreden bij het verplaatsen van het bestand naar de uiteindelijke bestemming.",
 
 'upload_no_filepath' =>
-"The upload path does not appear to be valid.",
+"Het uploadpad is niet geldig.",
 
 'upload_no_file_types' =>
-"You have not specified any allowed file types.",
+"Je hebt geen geldige bestandstypes opgegeven.",
 
 'upload_bad_filename' =>
-"The file name you submitted already exists on the server.",
+"Een bestand met die naam bestaat al.",
 
 'upload_not_writable' =>
-"The upload destination folder does not appear to be writable.",
+"De uploadmap is niet beschrijfbaar.",
 
 //----------------------------------------
 //  Update routine
 //----------------------------------------
 
 'update_freeform_module' =>
-"Update Freeform Module",
+"Freeform Module updaten",
 
 'freeform_update_message' =>
-"You have recently uploaded a new version of Freeform, please click here to run the update script.",
+"Je hebt recent geupdate naar een nieuwe versie van Freeform. Klik hier om het updatesccript uit te voeren.",
 
 "update_successful" =>
-"The module was successfully updated.",
+"De module is geupdate.",
 
 "update_failure" =>
-"There was an error while trying to update your module to the latest version.",
+"Er is iets fout gegaan bij het updaten van de module naar de laatste versie.",
 
 // -------------------------------------
 //	State, Province and Country list last because
@@ -2071,201 +2070,201 @@ Yukon (YT)",
 
 'list_of_countries' => "
 Afghanistan
-Albania
-Algeria
+Albanië
+Algerije
 Andorra
 Angola
 Antigua & Deps
-Argentina
-Armenia
-Australia
-Austria
-Azerbaijan
+Argentinië
+Armenië
+Australië
+Azerbeidzjan
 Bahamas
-Bahrain
+Bahrein
 Bangladesh
 Barbados
-Belarus
-Belgium
+België
 Belize
 Benin
 Bhutan
+Boeroendi
 Bolivia
-Bosnia Herzegovina
+Bosnië-Herzegovina
 Botswana
-Brazil
+Brazilië
 Brunei
-Bulgaria
+Bulgarije
 Burkina
-Burundi
-Cambodia
-Cameroon
+Cambodja
 Canada
 Cape Verde
-Central African Rep
-Chad
-Chile
+Centraal-Afrikaanse Rep
+Chili
 China
 Colombia
-Comoros
+Comoren
 Congo
-Congo {Democratic Rep}
+Congo {Rep Democratische}
 Costa Rica
-Croatia
 Cuba
 Cyprus
-Czech Republic
-Denmark
+Denemarken
 Djibouti
-Dominica
-Dominican Republic
-East Timor
+dominica
+Dominicaanse Republiek
+Duitsland
 Ecuador
-Egypt
+Egypte
 El Salvador
-Equatorial Guinea
+Equatoriaal-Guinea
 Eritrea
-Estonia
-Ethiopia
+Estland
+Ethiopië
 Fiji
+Filippijnen
 Finland
-France
+Frankrijk
 Gabon
 Gambia
-Georgia
-Germany
+Georgië
 Ghana
-Greece
-Grenada
+grenada
+Griekenland
 Guatemala
 Guinea
-Guinea-Bissau
+Guinee-Bissau
 Guyana
-Haiti
+Haïti
 Honduras
-Hungary
-Iceland
-India
-Indonesia
+Hongarije
+Ierland {Republiek}
+IJsland
+Indië
+Indonesië
+Irak
 Iran
-Iraq
-Ireland {Republic}
-Israel
-Italy
-Ivory Coast
+Israël
+Italië
+Ivoorkust
 Jamaica
 Japan
-Jordan
-Kazakhstan
-Kenya
+Jemen
+Jordanië
+Kameroen
+Katar
+Kazachstan
+Kenia
+Kirgizië
 Kiribati
-Korea North
-Korea South
+Koeweit
+Korea Noord
 Kosovo
-Kuwait
-Kyrgyzstan
+Kroatië
 Laos
-Latvia
-Lebanon
 Lesotho
+Letland
+Libanon
 Liberia
-Libya
+Libië
 Liechtenstein
-Lithuania
-Luxembourg
-Macedonia
+Litouwen
+Luxemburg
+Macedonië
 Madagascar
 Malawi
-Malaysia
-Maldives
+Maldiven
+Maleisië
 Mali
 Malta
-Marshall Islands
-Mauritania
+Marokko
+Marshall Eilanden
+Mauritanië
 Mauritius
 Mexico
-Micronesia
-Moldova
+Micronesië
+Moldavië
 Monaco
-Mongolia
+Mongolië
 Montenegro
-Morocco
 Mozambique
-Myanmar, {Burma}
-Namibia
+Myanmar, Birma {}
+Namibië
 Nauru
+Nederland
 Nepal
-Netherlands
 New Zealand
 Nicaragua
 Niger
 Nigeria
-Norway
+Noorwegen
+Oeganda
+Oekraïne
+Oezbekistan
 Oman
+Oost-Timor
+Oostenrijk
 Pakistan
-Palau
+palau
 Panama
-Papua New Guinea
+Papoea-Nieuw-Guinea
 Paraguay
 Peru
-Philippines
-Poland
+Polen
 Portugal
-Qatar
-Romania
-Russian Federation
+Roemenië
+Russische Federatie
 Rwanda
-St Kitts & Nevis
-St Lucia
-Saint Vincent & the Grenadines
+Saint Vincent en de Grenadines
 Samoa
 San Marino
 Sao Tome & Principe
-Saudi Arabia
+Saoedi-Arabië
 Senegal
-Serbia
-Seychelles
+Servië
+Seychellen
 Sierra Leone
 Singapore
-Slovakia
-Slovenia
-Solomon Islands
-Somalia
+Slovenië
+Slowakije
+Soedan
+Solomon Eilanden
+Somalië
 South Africa
-South Sudan
-Spain
+Spanje
 Sri Lanka
-Sudan
+St Kitts en Nevis
+St Lucia
 Suriname
 Swaziland
-Sweden
-Switzerland
-Syria
+Syrië
+Tadzjikistan
 Taiwan
-Tajikistan
 Tanzania
 Thailand
 Togo
 Tonga
 Trinidad & Tobago
-Tunisia
-Turkey
+Tsjaad
+Tsjechische Republiek
+Tunesië
+Turkije
 Turkmenistan
 Tuvalu
-Uganda
-Ukraine
-United Arab Emirates
-United Kingdom
-United States
 Uruguay
-Uzbekistan
 Vanuatu
-Vatican City
+Vaticaanstad
 Venezuela
+Verenigd Koninkrijk
+Verenigde Arabische Emiraten
+Verenigde Staten van Amerika
 Vietnam
-Yemen
+Wit-Rusland
 Zambia
-Zimbabwe",
+Zimbabwe
+Zuid-Korea
+Zuid-Soedan
+Zweden
+Zwitserland",
 
 // END
 ''=>''
