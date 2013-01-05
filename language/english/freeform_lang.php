@@ -1,14 +1,15 @@
 <?php
 
- /**
- * Solspace - Freeform
+/**
+ * Freeform - Language
  *
  * @package		Solspace:Freeform
- * @author		Solspace DevTeam
- * @copyright 	Copyright (c) 2008-2013, Solspace, Inc.
- * @link		http://solspace.com/docs/addon/c/Freeform/
- * @version		4.0.9
- * @filesource 	./system/expressionengine/third_party/freeform/language/english/
+ * @author		Solspace, Inc.
+ * @copyright	Copyright (c) 2008-2013, Solspace, Inc.
+ * @link		http://solspace.com/docs/freeform
+ * @license		http://www.solspace.com/license_agreement
+ * @version		4.0.10
+ * @filesource	freeform/language/english/freeform_lang.php
  */
 
 $lang = array(
